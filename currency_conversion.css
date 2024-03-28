@@ -125,3 +125,13 @@ footer {
 .conversion-links a:hover {
     text-decoration: underline;
 }
+.disclaimer-container {
+    overflow: hidden; /* Hide any overflow */
+    padding: 10px 0; /* Add padding as needed */
+  }
+  
+  /* Style for the scrolling marquee */
+  marquee {
+    font-size: 14px; /* Adjust font size as needed */
+    color: #fff; 
+  }
